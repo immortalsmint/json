@@ -3,7 +3,7 @@
   "symbol": "IMRTL",
   "description": "Immortals, 3333 pixel nightmares haunting the Solana blockchain. Developers of Solana Shuffle a provably fair NFT & SOL jackpot game.",
   "seller_fee_basis_points": 100,
-  "external_url": "https://immortals-free-mint.netlify.app",
+  "external_url": "https://immortals-nft.web.app",
   "edition": "WhiteList",
   "background_color": "000000",
   "attributes": [
@@ -20,7 +20,7 @@
     "category": "image",
     "creators": [
       {
-        "address": "mag1cqJMr5WeycmET2UyLU5ZEH3uNUCnvMywBdUxAm5",
+        "address": "BNsY6jvPY7sYWs9Jm6EWf59Ep2y7Gu1trtFVKPVimRXH",
         "share": 100
       }
     ],
