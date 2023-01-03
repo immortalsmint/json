@@ -1,0 +1,39 @@
+{
+  "name": "Immortals WL",
+  "symbol": "IMRTL",
+  "description": "Immortals, 3333 pixel nightmares haunting the Solana blockchain. Developers of Solana Shuffle a provably fair NFT & SOL jackpot game.",
+  "seller_fee_basis_points": 100,
+  "external_url": "https://immortals-free-mint.netlify.app",
+  "edition": "WhiteList",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "Floor",
+      "value": "9.7 SOL"
+    },
+    {
+      "trait_type": "White List",
+      "value": "Free"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "mag1cqJMr5WeycmET2UyLU5ZEH3uNUCnvMywBdUxAm5",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://github.com/holydiamonds/nftfiles/blob/main/immortals.gif?raw=true",
+        "file_type": "image/gif"
+      }
+    ]
+  },
+  "collection": {
+    "name": "IMRTL",
+    "family": "WhiteList"
+  },
+  "image": "https://github.com/holydiamonds/nftfiles/blob/main/immortals.gif?raw=true"
+}
